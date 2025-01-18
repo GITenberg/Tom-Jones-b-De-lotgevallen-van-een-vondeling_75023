@@ -1,0 +1,42 @@
+_repo: Tom-Jones-b-De-lotgevallen-van-een-vondeling_75023
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lindo, M. P. (Mark Prager)
+    alias: Lindo, Mark Prager
+    birthdate: 1819
+    deathdate: 1877
+    gutenberg_agent_id: '32102'
+    url: http://www.gutenberg.org/2009/agents/32102
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Gualterus, Petrus
+    - Drawcansir, Alexander, Sir
+    - Keyber, Conny
+    - Trottplaid, John
+    - Vinegar, Hercules
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Fielding
+description: ''
+gutenberg_issued: '2025-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75023'
+language: nl
+pgterms:marc905: 20241223124033fielding
+pgterms:marc906: '1862'
+pgterms:marc907: nl
+production_note: Nico Winkel and Jeroen Hellingman for Project Gutenberg
+publication_note: '  $aHaarlem :$bA. C. Kruseman, $c1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tom Jones : $b De lotgevallen van een vondeling'
+url: http://www.gutenberg.org/ebooks/75023
