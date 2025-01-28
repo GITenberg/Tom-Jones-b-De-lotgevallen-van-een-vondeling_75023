@@ -8,6 +8,9 @@ contributor:
     deathdate: 1877
     gutenberg_agent_id: '32102'
     url: http://www.gutenberg.org/2009/agents/32102
+covers:
+- cover_type: archival
+  image_path: 75023-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Fielding, Henry
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/537
     wikipedia: https://en.wikipedia.org/wiki/Henry_Fielding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75023#Tom-Jones-b-De-lotgevallen-van-een-vondeling
 gutenberg_issued: '2025-01-02'
 gutenberg_type: Text
 identifiers:
